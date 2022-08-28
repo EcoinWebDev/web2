@@ -1,0 +1,9 @@
+<?php
+$students = [
+    ['id'=>1,'name'=>"ahmed",'email'=>"ahmed@gmail.com"]
+];
+
+
+
+
+?>
